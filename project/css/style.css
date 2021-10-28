@@ -157,6 +157,23 @@ html{
 
 }
 
+/*animate delay*/
+.d-one{
+    animation-delay: 0.5s;
+}
+.d-two{
+    animation-delay: 1s;
+}
+.d-three{
+    animation-delay: 1.5s;
+}
+.d-four{
+    animation-delay: 2s;
+}
+.d-five{
+    animation-delay: 2.5s;
+}
+
 @media screen and (max-width: 1030px) {
     .footer{
         background: var(--bs-primary);
